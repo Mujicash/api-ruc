@@ -1,0 +1,39 @@
+08/14/2024 11:22:32 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+08/14/2024 11:22:32 [INFO]: [33mPress CTRL+C to quit[0m
+08/14/2024 11:22:32 [INFO]:  * Restarting with stat
+08/14/2024 11:22:39 [WARNING]:  * Debugger is active!
+08/14/2024 11:22:39 [INFO]:  * Debugger PIN: 130-105-654
+08/14/2024 11:23:08 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+08/14/2024 11:23:08 [INFO]: [33mPress CTRL+C to quit[0m
+08/14/2024 11:23:08 [INFO]:  * Restarting with stat
+08/14/2024 11:23:16 [WARNING]:  * Debugger is active!
+08/14/2024 11:23:16 [INFO]:  * Debugger PIN: 130-105-654
+08/14/2024 11:23:43 [INFO]:  * Detected change in 'D:\\api-ruc-scraping\\index.py', reloading
+08/14/2024 11:23:43 [INFO]:  * Restarting with stat
+08/14/2024 11:23:49 [WARNING]:  * Debugger is active!
+08/14/2024 11:23:49 [INFO]:  * Debugger PIN: 130-105-654
+08/14/2024 11:29:17 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+08/14/2024 11:29:17 [INFO]: [33mPress CTRL+C to quit[0m
+08/14/2024 11:29:17 [INFO]:  * Restarting with stat
+08/14/2024 11:29:25 [WARNING]:  * Debugger is active!
+08/14/2024 11:29:25 [INFO]:  * Debugger PIN: 130-105-654
+08/14/2024 11:29:25 [INFO]: 127.0.0.1 - - [14/Aug/2024 11:29:25] "[33mGET / HTTP/1.1[0m" 404 -
+08/14/2024 11:29:25 [INFO]: 127.0.0.1 - - [14/Aug/2024 11:29:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+08/14/2024 11:30:09 [INFO]: 127.0.0.1 - - [14/Aug/2024 11:30:09] "GET /ruc/20518257723 HTTP/1.1" 200 -
+08/14/2024 11:30:54 [WARNING]: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029A65F7D270>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/f4b8d25da4de19d1ba3be478300efe24/url
+08/14/2024 11:30:58 [WARNING]: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029A65F7E5F0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/f4b8d25da4de19d1ba3be478300efe24/url
+08/14/2024 11:31:02 [WARNING]: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029A65F7E7A0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/f4b8d25da4de19d1ba3be478300efe24/url
+08/14/2024 11:31:11 [WARNING]: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029A65F7EB30>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/f4b8d25da4de19d1ba3be478300efe24
+08/14/2024 11:31:15 [WARNING]: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029A65F7ECE0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/f4b8d25da4de19d1ba3be478300efe24
+08/14/2024 11:31:19 [WARNING]: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029A65F7EDA0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/f4b8d25da4de19d1ba3be478300efe24
+08/14/2024 11:31:27 [INFO]: 127.0.0.1 - - [14/Aug/2024 11:31:27] "[35m[1mGET /ruc/20508565934 HTTP/1.1[0m" 500 -
+08/14/2024 11:31:50 [WARNING]: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029A65F7D630>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/f4b8d25da4de19d1ba3be478300efe24/url
+08/14/2024 11:31:54 [WARNING]: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029A65F7EFB0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/f4b8d25da4de19d1ba3be478300efe24/url
+08/14/2024 11:31:58 [WARNING]: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029A65F7ED40>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/f4b8d25da4de19d1ba3be478300efe24/url
+08/14/2024 11:32:06 [WARNING]: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029A65F7E860>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/f4b8d25da4de19d1ba3be478300efe24
+08/14/2024 11:32:10 [WARNING]: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029A65F7EA70>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/f4b8d25da4de19d1ba3be478300efe24
+08/14/2024 11:32:15 [WARNING]: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029A65F7E8C0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/f4b8d25da4de19d1ba3be478300efe24
+08/14/2024 11:32:23 [INFO]: 127.0.0.1 - - [14/Aug/2024 11:32:23] "[35m[1mGET /ruc/20508565934 HTTP/1.1[0m" 500 -
